@@ -1,0 +1,82 @@
+@media(max-width:575px){
+    .banner_img {
+        
+        display: none;
+    }
+    .nav-item {
+        text-align: center;
+        margin: 14px 0;
+        display: inline-flex;
+        justify-content: center;
+    }
+    .height {
+        min-height: 50vh;
+     
+    }
+    .img-fluid {
+        max-width: 69%;
+        height: auto;
+        margin-left: 57px;
+    }
+    .heading span {
+        display: block;
+        height: 2px;
+        width: 100px;
+        /* margin-top: 8px; */
+        position: relative;
+        margin: auto;
+    }
+    
+    .span_position {
+        transform: translate(-19px);
+    }
+    
+.heading-two {
+    text-align: center;
+    padding-top: 52px;
+}
+.device_details_section p {
+    
+    color: #000000a8;
+}
+
+.device_details_section {
+    padding: 24px;
+}
+.customize_section {
+   
+    padding: 0px;
+}
+.customize_section img {
+    width: 100%;
+    height: auto;
+}
+.clint_section {
+    
+    align-items: center;
+    justify-content: center;
+}
+.add_sed_btn {
+    
+    justify-content: center;
+    margin-top: 30px;
+}
+.table_content {
+    
+    
+   
+    
+    width: 90%;
+    margin: auto;
+    margin-bottom: 29px;
+}
+.form {
+  
+    width: 81%;
+   
+}
+.contact_information {
+    
+    padding-bottom: 125px;
+}
+}
